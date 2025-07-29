@@ -1,4 +1,4 @@
-# ✅ System Design Study Checklist
+# ✅ System Design Checklist
 
 A personal tracking list for preparing core system design concepts and problems.
 
