@@ -7,7 +7,7 @@ A personal tracking list for preparing core system design concepts and problems.
 ## 📚 Core Concepts
 
 - [ ] Design a Rate Limiter for an API
-- [ ] Design a URL Shortener
+- [X] [Design a URL Shortener](https://github.com/AnishPowar01/UrlShortner)
 - [ ] Design a Simple Chat/Messaging Feature
 - [ ] Design a Search Autocomplete System
 
